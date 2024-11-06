@@ -52,6 +52,8 @@
   .u-section-1 .u-text-4 {
     width: auto;
     margin-right: 252px;
+    display: inline-flex;
+    align-items: center;
   }
 }
 
@@ -77,6 +79,8 @@
 
   .u-section-1 .u-text-4 {
     margin-right: 173px;
+    display: inline-flex;
+    align-items: center;
   }
 }
 
@@ -109,6 +113,8 @@
     margin-right: auto;
     margin-bottom: 47px;
     margin-left: 148px;
+    display: inline-flex;
+    align-items: center;
   }
 }
 
@@ -137,6 +143,8 @@
     margin-right: 132px;
     margin-bottom: 46px;
     margin-left: 58px;
+    display: inline-flex;
+    align-items: center;
   }
 } .u-section-2 {
   min-height: 500px;
