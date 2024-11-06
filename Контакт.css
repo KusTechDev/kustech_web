@@ -23,6 +23,8 @@
 
 .u-section-1 .u-text-4 {
   margin: 0 296px 60px auto;
+  display: inline-flex;
+  align-items: center;
 }
 
 @media (max-width: 1199px) {
